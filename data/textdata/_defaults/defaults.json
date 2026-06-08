@@ -1,0 +1,12 @@
+{
+  "threshold": 0.4953271028037383,
+  "invert_period": false,
+  "viz_center_type": "Общий вид",
+  "viz_center_node": "",
+  "reg_date": "05.05.2026",
+  "use_device_time_reg_date": true,
+  "date_from": "21.02.1994",
+  "use_device_time_date_from": false,
+  "date_to": "05.05.2026",
+  "use_device_time_date_to": true
+}

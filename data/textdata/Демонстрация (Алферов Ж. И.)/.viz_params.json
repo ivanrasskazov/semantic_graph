@@ -1,0 +1,43 @@
+{
+  "kw_conn": false,
+  "center_type": "Общий вид",
+  "center_node": "  ",
+  "layout_type": "Сило-ориентированный",
+  "node_colors": {
+    "keyword": "#ffffaa",
+    "subject": "#90ee90",
+    "faction": "#f08080"
+  },
+  "center_word_color": "#ffff15",
+  "edge_colors": {
+    "kw-kw": "#888888",
+    "sub-fac": "#aa6666",
+    "sub-kw": "#c0c0c0",
+    "sub-sub": "#88aa88"
+  },
+  "font": {
+    "size": 8,
+    "weight": "normal",
+    "color": "#000000"
+  },
+  "offsets": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "styles": {},
+  "smart_labels": false,
+  "label_base_radius": 0.035,
+  "label_radius_multiplier": 0.003,
+  "min_mentions": 1,
+  "max_mentions": 999999,
+  "kw_min": 20,
+  "kw_max": 999999,
+  "sub_min": 20,
+  "sub_max": 999999,
+  "fac_min": 1,
+  "fac_max": 50,
+  "spacing_mode": "fixed",
+  "spacing_fixed": 1.9,
+  "spacing_dynamic_base": 1.1,
+  "spacing_dynamic_factor": 0.022
+}

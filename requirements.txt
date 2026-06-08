@@ -1,0 +1,11 @@
+matplotlib
+numpy
+networkx
+requests
+chardet
+beautifulsoup4
+python-docx
+navec
+pymystem3
+scikit-learn
+scipy
