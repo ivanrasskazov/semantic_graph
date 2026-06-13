@@ -69,5 +69,8 @@ _Программа позволяет пользователю работать
 
 Файл _presentation.pptx_ содержит в себе презентацию программы, проведённую 15 мая 2026 года на конференции «Встречи в Таврическом».
 
+## Контактная информация
+Рассказов Иван Александрович, эл. почта: ivanrasskazov15@gmail.com (предпочтительнее), ivanrasskazov15@yandex.com.
+
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8185dd1f-3863-4dd5-9ded-4cfdbc725a83" />
 
